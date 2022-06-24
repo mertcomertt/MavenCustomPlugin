@@ -1,0 +1,2 @@
+# MavenCustomPlugin
+Summarize Maven Detail
